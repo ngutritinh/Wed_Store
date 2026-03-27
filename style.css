@@ -1,0 +1,986 @@
+.MESSI {
+    background-color: #ececec;
+    overflow: hidden;
+    width: 100%;
+    min-width: 1600px;
+    min-height: 1200px;
+    position: relative;
+}
+
+.MESSI .vector {
+    position: absolute;
+    top: 1284px;
+    left: 652px;
+    width: 264px;
+    height: 343px;
+}
+
+.MESSI .img {
+    position: absolute;
+    top: 1482px;
+    left: 652px;
+    width: 269px;
+    height: 510px;
+}
+
+.MESSI .vector-2 {
+    position: absolute;
+    top: 1639px;
+    left: 264px;
+    width: 216px;
+    height: 379px;
+}
+
+.MESSI .vector-3 {
+    position: absolute;
+    top: 970px;
+    left: 942px;
+    width: 137px;
+    height: 230px;
+}
+
+.MESSI .vector-4 {
+    position: absolute;
+    top: 447px;
+    left: 0;
+    width: 83px;
+    height: 426px;
+}
+
+.MESSI .vector-5 {
+    position: absolute;
+    top: 1005px;
+    left: 146px;
+    width: 353px;
+    height: 106px;
+}
+
+.MESSI .vector-6 {
+    position: absolute;
+    top: 0;
+    left: 355px;
+    width: 1226px;
+    height: 300px;
+}
+
+.MESSI .screen {
+    position: absolute;
+    top: 149px;
+    left: 65px;
+    width: 1440px;
+    height: 810px;
+    background-color: #ffffff;
+    border-radius: 27px;
+    overflow: hidden;
+    box-shadow: 16.5px 45px 45px -5.25px #00000026;
+}
+
+.MESSI .frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 810px;
+    background-color: #0b0b0b;
+}
+
+.MESSI .navigation-bar {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 11.25px;
+    position: absolute;
+    top: 352px;
+    left: 1364px;
+}
+
+.MESSI .ellipse {
+    background-color: #ffffff33;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .div {
+    background-color: #ffffff66;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-2 {
+    background-color: #ffffff99;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-3 {
+    background-color: #ffffffcc;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-4 {
+    background-color: #ffffff;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .text-wrapper {
+    position: absolute;
+    top: 637px;
+    left: 81px;
+    width: 145px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.MESSI .line {
+    position: absolute;
+    top: 87px;
+    left: 427px;
+    width: 67px;
+    height: 2px;
+}
+
+.MESSI .image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1215px;
+    height: 810px;
+    aspect-ratio: 1.5;
+    object-fit: cover;
+}
+
+.MESSI .search-cart-and {
+    position: absolute;
+    top: 61px;
+    left: 1207px;
+    width: 170px;
+    height: 27px;
+}
+
+.MESSI .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 50.25px;
+    position: absolute;
+    top: 66px;
+    left: 428px;
+}
+
+.MESSI .text-wrapper-2 {
+    width: 77.25px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-3 {
+    width: 60px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-4 {
+    width: 108.75px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-5 {
+    width: 67.5px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-6 {
+    width: 71.25px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .CTA {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 33px;
+    position: absolute;
+    top: 693px;
+    left: 533px;
+}
+
+.MESSI .frame-wrapper {
+    display: inline-flex;
+    height: 51.75px;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 15px 22.5px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+}
+
+.MESSI .div-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 7.5px;
+    padding: 7.5px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -4.88px;
+    margin-bottom: -4.87px;
+}
+
+.MESSI .text-wrapper-7 {
+    position: relative;
+    width: 119.25px;
+    height: 16.5px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.MESSI .frame-2 {
+    display: inline-flex;
+    height: 51.75px;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 15px 30px;
+    position: relative;
+    flex: 0 0 auto;
+    border: 0.75px solid;
+    border-color: #ffffff;
+}
+
+.MESSI .text-wrapper-8 {
+    position: relative;
+    width: 87px;
+    height: 16.5px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.MESSI .information-of {
+    display: flex;
+    flex-direction: column;
+    width: 344px;
+    align-items: flex-start;
+    gap: 6.75px;
+    position: absolute;
+    top: 661px;
+    left: 1033px;
+}
+
+.MESSI .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 3.20px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.MESSI .p {
+    position: relative;
+    width: 333px;
+    height: 60.75px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.3px;
+}
+
+.MESSI .vector-7 {
+    position: absolute;
+    top: 314px;
+    left: 1520px;
+    width: 80px;
+    height: 511px;
+}
+
+.MESSI .vector-8 {
+    position: absolute;
+    top: 1005px;
+    left: 1177px;
+    width: 216px;
+    height: 195px;
+}
+
+.MESSI .rectangle {
+    position: absolute;
+    top: 1102px;
+    left: 1268px;
+    width: 252px;
+    height: 45px;
+    background-color: #ecececcc;
+}
+
+.MESSI .pricing {
+    display: inline-flex;
+    height: 71px;
+    align-items: flex-end;
+    position: absolute;
+    top: 659px;
+    left: 943px;
+}
+
+.MESSI .text-wrapper-10 {
+    position: relative;
+    width: 128px;
+    height: 43px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #e60000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.MESSI .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -0.25px;
+    margin-left: -11px;
+}
+
+.MESSI .limit-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 7.5px;
+    padding: 7.5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #eb0000;
+    border-radius: 9.75px;
+}
+
+.MESSI .limit {
+    position: relative;
+    width: 44.25px;
+    height: 14.25px;
+    margin-top: -0.75px;
+    font-family: "Roboto Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.MESSI .ADIDAS-MESSI-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.MESSI .ADIDAS-MESSI {
+    position: relative;
+    width: 288px;
+    height: 42px;
+    margin-top: -0.75px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 20.3px;
+}
+
+.MESSI .span {
+    letter-spacing: 0.24px;
+}
+
+.MESSI .text-wrapper-11 {
+    letter-spacing: 0.68px;
+}
+
+.MESSI .favpng {
+    position: absolute;
+    top: 184px;
+    left: 138px;
+    width: 116px;
+    height: 82px;
+    aspect-ratio: 1.41;
+    object-fit: cover;
+}
+
+/* =============================================
+   ORIGINAL style.css INJECTED BELOW
+   ============================================= */
+
+.MESSI {
+    background-color: #ececec;
+    overflow: hidden;
+    width: 100%;
+    min-width: 1600px;
+    min-height: 1200px;
+    position: relative;
+}
+
+.MESSI .vector {
+    position: absolute;
+    top: 1284px;
+    left: 652px;
+    width: 264px;
+    height: 343px;
+}
+
+.MESSI .img {
+    position: absolute;
+    top: 1482px;
+    left: 652px;
+    width: 269px;
+    height: 510px;
+}
+
+.MESSI .vector-2 {
+    position: absolute;
+    top: 1639px;
+    left: 264px;
+    width: 216px;
+    height: 379px;
+}
+
+.MESSI .vector-3 {
+    position: absolute;
+    top: 970px;
+    left: 942px;
+    width: 137px;
+    height: 230px;
+}
+
+.MESSI .vector-4 {
+    position: absolute;
+    top: 447px;
+    left: 0;
+    width: 83px;
+    height: 426px;
+}
+
+.MESSI .vector-5 {
+    position: absolute;
+    top: 1005px;
+    left: 146px;
+    width: 353px;
+    height: 106px;
+}
+
+.MESSI .vector-6 {
+    position: absolute;
+    top: 0;
+    left: 355px;
+    width: 1226px;
+    height: 300px;
+}
+
+.MESSI .screen {
+    position: absolute;
+    top: 149px;
+    left: 65px;
+    width: 1440px;
+    height: 810px;
+    background-color: #ffffff;
+    border-radius: 27px;
+    overflow: hidden;
+    box-shadow: 16.5px 45px 45px -5.25px #00000026;
+}
+
+.MESSI .frame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 810px;
+    background-color: #0b0b0b;
+}
+
+.MESSI .navigation-bar {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 11.25px;
+    position: absolute;
+    top: 352px;
+    left: 1364px;
+}
+
+/* Reset button base styles for navigation dots */
+.MESSI .navigation-bar button {
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: block;
+}
+
+.MESSI .ellipse {
+    background-color: #ffffff33;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .div {
+    background-color: #ffffff66;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-2 {
+    background-color: #ffffff99;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-3 {
+    background-color: #ffffffcc;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .ellipse-4 {
+    background-color: #ffffff;
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+}
+
+.MESSI .text-wrapper {
+    position: absolute;
+    top: 637px;
+    left: 81px;
+    width: 145px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin: 0;
+}
+
+.MESSI .line {
+    position: absolute;
+    top: 87px;
+    left: 427px;
+    width: 67px;
+    height: 2px;
+}
+
+.MESSI .image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1215px;
+    height: 810px;
+    aspect-ratio: 1.5;
+    object-fit: cover;
+}
+
+.MESSI .search-cart-and {
+    position: absolute;
+    top: 61px;
+    left: 1207px;
+    width: 170px;
+    height: 27px;
+}
+
+.MESSI .navbar {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 50.25px;
+    position: absolute;
+    top: 66px;
+    left: 428px;
+}
+
+/* Reset anchor base styles for navbar links */
+.MESSI .navbar a {
+    text-decoration: none;
+    display: block;
+}
+
+.MESSI .text-wrapper-2 {
+    width: 77.25px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-3 {
+    width: 60px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-4 {
+    width: 108.75px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-5 {
+    width: 67.5px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .text-wrapper-6 {
+    width: 71.25px;
+    position: relative;
+    height: 18px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 6.04px;
+    line-height: normal;
+}
+
+.MESSI .CTA {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 33px;
+    position: absolute;
+    top: 693px;
+    left: 533px;
+}
+
+.MESSI .frame-wrapper {
+    display: inline-flex;
+    height: 51.75px;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 15px 22.5px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+}
+
+.MESSI .div-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 7.5px;
+    padding: 7.5px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -4.88px;
+    margin-bottom: -4.87px;
+}
+
+/* Reset button base styles for CTA buttons */
+.MESSI .text-wrapper-7 {
+    position: relative;
+    width: 119.25px;
+    height: 16.5px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: block;
+}
+
+.MESSI .frame-2 {
+    display: inline-flex;
+    height: 51.75px;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 15px 30px;
+    position: relative;
+    flex: 0 0 auto;
+    border: 0.75px solid;
+    border-color: #ffffff;
+}
+
+/* Reset button base styles for BUY NOW button */
+.MESSI .text-wrapper-8 {
+    position: relative;
+    width: 87px;
+    height: 16.5px;
+    margin-top: -0.75px;
+    font-family: "Monument Extended-Ultrabold", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    display: block;
+}
+
+.MESSI .information-of {
+    display: flex;
+    flex-direction: column;
+    width: 344px;
+    align-items: flex-start;
+    gap: 6.75px;
+    position: absolute;
+    top: 661px;
+    left: 1033px;
+}
+
+.MESSI .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.75px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 3.20px;
+    line-height: normal;
+    white-space: nowrap;
+    margin-bottom: 0;
+}
+
+.MESSI .p {
+    position: relative;
+    width: 333px;
+    height: 60.75px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.3px;
+    margin: 0;
+}
+
+.MESSI .vector-7 {
+    position: absolute;
+    top: 314px;
+    left: 1520px;
+    width: 80px;
+    height: 511px;
+}
+
+.MESSI .vector-8 {
+    position: absolute;
+    top: 1005px;
+    left: 1177px;
+    width: 216px;
+    height: 195px;
+}
+
+.MESSI .rectangle {
+    position: absolute;
+    top: 1102px;
+    left: 1268px;
+    width: 252px;
+    height: 45px;
+    background-color: #ecececcc;
+}
+
+.MESSI .pricing {
+    display: inline-flex;
+    height: 71px;
+    align-items: flex-end;
+    position: absolute;
+    top: 659px;
+    left: 943px;
+}
+
+.MESSI .text-wrapper-10 {
+    position: relative;
+    width: 128px;
+    height: 43px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #e60000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin: 0;
+}
+
+.MESSI .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -0.25px;
+    margin-left: -11px;
+}
+
+.MESSI .limit-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 7.5px;
+    padding: 7.5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #eb0000;
+    border-radius: 9.75px;
+}
+
+.MESSI .limit {
+    position: relative;
+    width: 44.25px;
+    height: 14.25px;
+    margin-top: -0.75px;
+    font-family: "Roboto Condensed-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.MESSI .ADIDAS-MESSI-wrapper {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.MESSI .ADIDAS-MESSI {
+    position: relative;
+    width: 288px;
+    height: 42px;
+    margin-top: -0.75px;
+    font-family: "Archivo Black-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 20.3px;
+    margin-bottom: 0;
+}
+
+.MESSI .span {
+    letter-spacing: 0.24px;
+}
+
+.MESSI .text-wrapper-11 {
+    letter-spacing: 0.68px;
+}
+
+.MESSI .favpng {
+    position: absolute;
+    top: 184px;
+    left: 138px;
+    width: 116px;
+    height: 82px;
+    aspect-ratio: 1.41;
+    object-fit: cover;
+}
